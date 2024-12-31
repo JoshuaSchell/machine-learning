@@ -3,3 +3,4 @@ b 0
 alpha 0.00001
 iterations 10000000
 log-every 1000
+output output.txt
